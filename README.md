@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mathematics at Kwame Nkrumah University of Science and Technology.
-- 🎨 &nbsp; Reading, journaling, walking, listening to music
+- 🎨 &nbsp; Reading, Journaling, listening to music and strolls
 - 🌱 &nbsp; Learning more about Linux, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Machine Learning and networking with people.
 

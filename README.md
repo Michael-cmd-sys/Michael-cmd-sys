@@ -1,19 +1,3 @@
-
-<!--
-**Michael-cmd-sys/Michael-cmd-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://raw.githubusercontent.com/Michael-cmd-sys/Michael-cmd-sys/master/assets/Michael%20Kofi%20Awuni%20Banner.png">
 
 <h2> Hey there! I'm Michael.</h2>
@@ -59,8 +43,14 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Michael-cmd-sys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-cmd-sys&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael-cmd-sys&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
+
+<h3> 🔥 &nbsp;GitHub Streak </h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-cmd-sys&theme=buefy&hide_border=true" />
+</p>
 
 <br/>
 
